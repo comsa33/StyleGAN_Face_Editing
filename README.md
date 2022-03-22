@@ -27,6 +27,8 @@ StyleGAN 전이학습을 통해서 face style 편집
 
 ## Semantic Editing
   - 성별, 나이, 포즈, 웃음, 안경 착용여부 등 시멘틱 특징을 변경
+
+
   ![semantic-editing](https://user-images.githubusercontent.com/61719257/159406777-7071578e-b3a5-4bfe-a412-eb06daf6a451.png)
   
   ### [Gender Editing Result]
